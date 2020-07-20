@@ -6,4 +6,4 @@ for Python: Agents/pyb07901xxx.h and Agents/pyb07901xxx.py
 2. In README.txt file, you need to describe which compiler you choose in this homework and how to compile it (if it is in a “project” form).
 3. In your .cpp files, we suggest you write comments as detailed as you can. If the code does not work properly, code with comments can get partial points. It will be good for the TAs to read your code as well as for your future reference and maintenance.
 
-![image](https://github.com/timtimchang/AI_snake/edit/master/image.png)
+![image](https://github.com/timtimchang/AI_snake/blob/master/image.png)
